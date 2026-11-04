@@ -48,7 +48,6 @@ deployed in a real school, where students actively used it.
 
 
 ## Instructions and Guidelines
-NMMSE website link - https://shiksha-sarthi-nmms-prep.vercel.app
 
 For student demo :- id-1256, password-1256
 
